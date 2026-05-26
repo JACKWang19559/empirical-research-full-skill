@@ -22,12 +22,15 @@
 | [Playwright CLI](https://github.com/microsoft/playwright-cli) | 浏览器自动化（CNKI/WoS/百度） | `npm install -g @playwright/cli@latest` |
 | [Stata 18](https://www.stata.com/) | 计量经济学分析 | 商业授权 |
 | [CSMAR](https://cn.gtadata.com) | 企业微观数据 | 个人注册账号 |
+| [cnki-skills](https://github.com/cookjohn/cnki-skills)|知网文献skill|自己安装|
+| [wos-skills](https://github.com/cookjohn/wos-skills)|web of science外文文献网站skill|自己安装|
+| [stata-cli](https://github.com/ashuiGordon/stata-cli)|stata cli工具|供Agent高效率调用stata|
 
 ### MCP Servers
 
 | MCP | 用途 | 配置 |
 |-----|------|------|
-| [Zotero MCP](https://github.com/nicholasgasior/zotero-mcp) | 文献管理、PDF 标注 | `http://localhost:23120/mcp` |
+| [Zotero MCP](https://github.com/cookjohn/zotero-mcp) | 文献管理、PDF 标注 | `http://localhost:23120/mcp` |
 
 ### 依赖 Skills（共 22 个）
 
