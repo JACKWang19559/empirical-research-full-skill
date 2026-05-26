@@ -197,7 +197,7 @@ research/{课题名}/
 
 ## 📊 表格规范
 
-输出《管理世界》期刊风格三线表：
+输出期刊风格三线表：
 
 ```latex
 % Stata esttab 输出模板
@@ -258,4 +258,3 @@ MIT
 - [Playwright CLI](https://github.com/microsoft/playwright-cli) — 浏览器自动化
 - [CSMAR](https://cn.gtadata.com) — 企业微观数据
 - [Zotero](https://www.zotero.org/) — 文献管理
-- 《管理世界》— 论文格式参考
